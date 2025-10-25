@@ -27,7 +27,7 @@ In addition to the [mandatory attributes](https://oca.colossi.network/specificat
 
 ## Overlayfile
 
-See [information.overlayfile](overlays/0001-information/information.overlayfile)
+See [information.overlayfile](/overlays/0001-information/information.overlayfile)
 
 ## Example
 
