@@ -42,7 +42,7 @@ Below is a list of community developed overlays hosted in that repository
 
 | Name of Overlay |  Description | Example | Depends on | Status
 |---------------|-----------------------------|-------------|---------|------|
-| Information | An Information Overlay defines attribute field descriptions and usage notes to assist the data entry process or to add context to presented data. | [Link](/overlays/0001-information.md) | Capture base | Accepted
+| Information | An Information Overlay defines attribute field descriptions and usage notes to assist the data entry process or to add context to presented data. | [Link](/overlays/0001-information/) | Capture base | Accepted
 | Conditional | A Conditional Overlay defines conditional expressions (or rules) that trigger specific computations or actions depending on whether, upon evaluation, programmer-defined Boolean expressions return true or false values. | [Link](#) | Capture base | Proposed
 | Unit Mapping | A Unit Mapping Overlay defines target units for quantitative data when converting between different units of measurement. | [Link](#) | Capture base | Proposed
 | Presentation | Presentation overlays provide information to display digital documents at the application layer, including digital forms and credentials. | [Link](#) | Capture base | Proposed
