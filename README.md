@@ -2,7 +2,7 @@
 
 Welcome to the Overlays Repository, a community-driven project to develop and share task-specific overlays for the **[Overlays Capture Architecture](https://oca.colossi.network) (OCA)**. This repository allows contributors to create, share and find overlays that extend and improve the functionality of Capture Bases and other overlays. This is achieved by providing documentation and overlay definitions [.overalyfile](https://oca.colossi.network/specification/overlayfile).
 
-## What is Overlayfile? 
+## What is Overlayfile?
 
 The OverlayFile is a custom, domain-specific language that allows you to create a definition of any given overlay programmatically. See the [Overlayfile specification](https://oca.colossi.network/specification/overlayfile) for more information.
 
@@ -83,3 +83,6 @@ Let’s build a powerful ecosystem of overlays together!
 
 **Happy Contributing!** 🚀
 
+## License
+
+All work in this repository is under EUPL1.2 License. See [LICENSE](/LICENSE)
