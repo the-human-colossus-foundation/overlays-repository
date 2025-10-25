@@ -1,4 +1,4 @@
-ADD OVERLAY information
+ADD OVERLAY hcf:information
   VERSION 1.0.0
   ADD ATTRIBUTES language=Lang
   ADD OBJECT attribute_information
