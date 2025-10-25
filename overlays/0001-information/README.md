@@ -39,7 +39,7 @@ See [information.overlayfile](/overlays/0001-information/information.overlayfile
    "attribute_information":{
       "dateOfBirth":"Holder’s date of birth as recorded by the issuing State or organization.",
       "documentNumber":"Unique identification number of the document.",
-      "documentType":"The word for "passport" in the language of the issuing State or organization.",
+      "documentType":"The word for passport in the language of the issuing State or organization.",
       "fullName":"Full name of the passport holder.",
       "height":"Recorded height of the passport holder.",
       "issuingState":"Name of the State or organization responsible for issuing the passport.",
