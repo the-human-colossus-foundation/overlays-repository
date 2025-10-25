@@ -67,8 +67,16 @@ Using the [OCAFILE syntax](https://oca.colossi.network/specification/ocafile.htm
 ### 5. Develop a Template
 Follow the [standard template](/template.md) structure to ensure consistency across all overlays. Templates help maintain clarity and usability.
 
+### 6. Update [overlays](/overlays.md)
+
+Add new item in the table for community overlay filling all columns.
+
 ### 6. Submit a Pull Request (PR)
-Push your overlay to this repository by creating a **Pull Request (PR)**. Ensure your submission adheres to repository [guidelines](/guidelines.md).
+Push your overlay to this repository by creating a **Pull Request (PR)**.
+PR should include
+- directory named <NUMBER>-<OVERLAY-NAME>/ in [overlays](/overlays), The number should be next available number from overlays directory.
+- `.Overlayfile` definition of proposed overlay following [Overlayfile Specification](https://oca.colossi.network/specification/overlayfile)
+- README.md - markdown description of proposed overlay following the [template](/template.md)
 
 ---
 
