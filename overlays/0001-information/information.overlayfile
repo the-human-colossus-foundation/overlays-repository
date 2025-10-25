@@ -1,0 +1,5 @@
+ADD OVERLAY information
+  VERSION 2.0.0
+  ADD OBJECT attribute_information
+    with keys ATTR-NAMES
+    with values TEXT

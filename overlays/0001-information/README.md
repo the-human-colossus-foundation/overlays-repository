@@ -25,6 +25,9 @@ In addition to the [mandatory attributes](https://oca.colossi.network/specificat
 
    The `attribute_information` attribute maps key-value pairs where the key is the attribute name and the value is the informational prose in a specific language.
 
+## Overlayfile
+
+See [information.overlayfile](overlays/0001-information/information.overlayfile)
 
 ## Example
 
@@ -46,4 +49,4 @@ In addition to the [mandatory attributes](https://oca.colossi.network/specificat
 }
 ```
 
-_Example 4. Code snippet for an Information Overlay (language: en_UK)._
+_Example 1. Code snippet for an Information Overlay (language: en_UK)._
