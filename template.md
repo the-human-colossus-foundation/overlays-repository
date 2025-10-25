@@ -1,21 +1,21 @@
-# <NAME-OF-OVERLAY> Overlay
+# `<NAME-OF-OVERLAY>` Overlay
 
 ## Purpose
 
-<DESCRIBE PURPOSE OF THE PROPOSED OVERLAY>
+`<DESCRIBE PURPOSE OF THE PROPOSED OVERLAY>`
 
 ## Use cases
 
-<DESCRIBE USE CASES OF THE PROPOSED OVERLAY>
+`<DESCRIBE USE CASES OF THE PROPOSED OVERLAY>`
 
 ## Specification
 
-<DESCRIBE
+`<DESCRIBE STRUCTURE AND COMPOSITION OF THE OVERALY MAKING SURE TO ADHERE TO THE OCA SPECIFICATION>`
 
 ## Overlayfile
 
-<PROVIDE OVERLAYFILE AND LINK IT HERE>
-See [<name-of-overlay>.overlayfile](/overlays/<next-number>-<name-of-overlay>/<name-of-overlay>.overlayfile)
+`<PROVIDE OVERLAYFILE AND LINK IT HERE>`
+See [<name-of-overlay>.overlayfile](/overlays/`<next-number>`-`<name-of-overlay>`/`<name-of-overlay>`.overlayfile)
 
 ## Example
 
@@ -23,4 +23,4 @@ See [<name-of-overlay>.overlayfile](/overlays/<next-number>-<name-of-overlay>/<n
 < PROVIDE EXAMPLE OF PROPOSED OVERLAY IN JSON FORMAT BEST CREATED BY THE OCA-BIN TOOL >
 ```
 
-_Example 1. Code snippet for an <name-of-overlay> Overlay._
+_Example 1. Code snippet for an `<name-of-overlay>` Overlay._
