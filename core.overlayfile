@@ -62,12 +62,6 @@ ADD OVERLAY entry
       with keys TEXT
       with values TEXT
 
-ADD OVERLAY information
-  VERSION 2.0.0
-  add object attribute_information
-    with keys attr-names
-    with values TEXT
-
 ADD overlay sensitive
   VERSION 2.0.0
   ADD ARRAY attributes
