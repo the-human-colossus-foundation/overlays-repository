@@ -1,5 +1,6 @@
 ADD OVERLAY information
-  VERSION 2.0.0
+  VERSION 1.0.0
+  ADD ATTRIBUTES language=Lang
   ADD OBJECT attribute_information
     with keys ATTR-NAMES
     with values TEXT
