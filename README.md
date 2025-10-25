@@ -1,6 +1,15 @@
 # Overlays Repository
 
-Welcome to the **Overlays Repository** – a community-driven effort to build and share task-specific overlays for the **[Overlays Capture Architecture](https://oca.colossi.network) (OCA)**. This repository enables contributors to create, share, and discover overlays that extend and enhance the functionality of Capture Bases and other Overlays.
+Welcome to the Overlays Repository, a community-driven project to develop and share task-specific overlays for the **[Overlays Capture Architecture](https://oca.colossi.network) (OCA)**. This repository allows contributors to create, share and find overlays that extend and improve the functionality of Capture Bases and other overlays. This is achieved by providing documentation and overlay definitions [.overalyfile](https://oca.colossi.network/specification/overlayfile).
+
+## What is Overlayfile? 
+
+The OverlayFile is a custom, domain-specific language that allows you to create a definition of any given overlay programmatically. See the [Overlayfile specification](https://oca.colossi.network/specification/overlayfile) for more information.
+
+## Core Overlays
+
+The [OCA Specification](https://oca.colossi.network/specification/) defines 13 distinct overlays as a baseline for anyone who would like to build their own semantic stack. You can find the definitions of these overlays in the [core.overlayfile](/core.overlayfile).
+
 
 ## What is an Overlay?
 
@@ -33,6 +42,7 @@ We welcome and encourage contributions from the community. Follow the steps belo
 
 Before creating a new overlay, check if a similar idea already exists. If an existing overlay addresses the same need, consider improving or extending it instead of creating a new one.
 The latest list of overlays can be found [here](/overlays.md)
+
 ### 1. Define the Purpose
 Clearly define the **goal** of the overlay. Each overlay should serve a **single purpose** and should be focused on solving a **specific** problem.
 
@@ -45,13 +55,19 @@ Provide a detailed **use case** explaining:
 
 This description helps others understand the overlay’s **purpose and potential applications**.
 
-### 3. Create an Example using OCAFILE Syntax
-Develop an example using the **[OCAFILE](https://oca.colossi.network/ecosystem/ocafile.html)** syntax that demonstrates the overlay in action.
+### 3. Create `.overlayfile`
 
-### 4. Develop a Template
+Create definition of your overlay using `.overlayfile`, use tools like [oca-bin](https://github.com/THCLab/oca-bin/releases) to validate it and build few example of `OCAFILE` with it.
+
+Create a definition for your overlay using the `.overlayfile` syntax. Use tools such as [oca-bin](https://github.com/THCLab/oca-bin/releases) to validate it.
+
+### 4. Create an example using the OCAFILE syntax.
+Using the [OCAFILE syntax](https://oca.colossi.network/specification/ocafile.html), develop an example that demonstrates the overlay in action. Use tools such as [oca-bin](https://github.com/THCLab/oca-bin/releases).
+
+### 5. Develop a Template
 Follow the [standard template](/template.md) structure to ensure consistency across all overlays. Templates help maintain clarity and usability.
 
-### 5. Submit a Pull Request (PR)
+### 6. Submit a Pull Request (PR)
 Push your overlay to this repository by creating a **Pull Request (PR)**. Ensure your submission adheres to repository [guidelines](/guidelines.md).
 
 ---
